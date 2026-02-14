@@ -3,7 +3,9 @@
 ## Установка 
 ##### bash (командная строка win + r - cmd)
 pip install requests
+
 pip install beautifulsoup4
+
 
 
 
